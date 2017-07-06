@@ -1,14 +1,21 @@
 {
-  "name": "@crash1988/how-to-tutorial",
+  "name": "how-to-tutorial",
   "version": "1.0.0",
-  "main": "index.js",
+  "description": "",
+  "main": "test.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Crash1988/how-to-tutorial.git"
+  },
   "author": "",
   "license": "ISC",
-  "description": "",
-  "dependencies": {
-    "@linclark/pkg": "^1.0.2"
-  }
+  "bugs": {
+    "url": "https://github.com/Crash1988/how-to-tutorial/issues"
+  },
+  "homepage": "https://github.com/Crash1988/how-to-tutorial#readme"
 }
