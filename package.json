@@ -1,7 +1,7 @@
 {
   "name": "how-to-tutorial",
   "version": "1.0.0",
-  "description": "",
+  "description": "texting and adding repositories",
   "main": "test.js",
   "dependencies": {},
   "devDependencies": {},
@@ -12,10 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/Crash1988/how-to-tutorial.git"
   },
-  "author": "",
+  "author": "Dennis",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Crash1988/how-to-tutorial/issues"
   },
-  "homepage": "https://github.com/Crash1988/how-to-tutorial#readme"
+  "homepage": "https://github.com/Crash1988/how-to-tutorial#readme",
+  "keywords": [
+    "npm"
+  ]
 }
